@@ -8,6 +8,11 @@
 -->
 
 # Communicate using Markdown
+# This is added by Alok as Header level 1
+## This is added by Alok as Header level 2
+### This is added by Alok as Header level 3
+#### This is added by Alok as Header level 4
+##### This is added by Alok as Header level 5
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -47,12 +52,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 # This is an `<h1>` header, which is the largest
 
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-### :keyboard: Activity: Edit your file with headers
-
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
@@ -64,6 +63,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
 
 <footer>
 
