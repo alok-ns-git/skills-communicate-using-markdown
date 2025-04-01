@@ -8,6 +8,11 @@
 -->
 
 # Communicate using Markdown
+# This is added by Alok as Header level 1
+## This is added by Alok as Header level 2
+### This is added by Alok as Header level 3
+#### This is added by Alok as Header level 4
+##### This is added by Alok as Header level 5
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
@@ -64,6 +69,12 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+***Added multiple headers at the beginning of the file to show markdown syntax***
+---
+-item1
+-item2
+---
 
 <footer>
 
